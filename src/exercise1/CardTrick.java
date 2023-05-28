@@ -10,7 +10,7 @@ import java.util.*;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
- /*@author Rajvir Kaur May 26, 2023*/
+ *@author Rajvir Kaur May 26, 2023*/
 public class CardTrick {
     
     public static void main(String[] args) {
@@ -29,7 +29,7 @@ public class CardTrick {
             //       Don't worry about duplicates at this point\
             
             hand[i] = card;
-            System.out.println(hand[i].getValue() + " " + hand[i].getSuit());
+           // System.out.println(hand[i].getValue() + " " + hand[i].getSuit());
 
         }
 //        for (int i=0;i<hand.length;i++){
